@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.movie-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
