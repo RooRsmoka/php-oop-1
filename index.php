@@ -22,7 +22,7 @@ class Movie {
 }
 
 $firstMovie = new Movie("The Matrix", "Action, Science Fiction", "May 1999");
-$secondMovie = new Movie("Avengers: Endgame", "Action, Adventure, Science Fiction, ", "April 2019");
+$secondMovie = new Movie("Avengers: Endgame", "Action, Adventure, Science Fiction", "April 2019");
 
 ?>
 
